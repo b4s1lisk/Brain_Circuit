@@ -1,0 +1,36 @@
+D quarter
+E quarter
+G eighth
+G eighth
+G eighth
+G sixteenth
+G sixteenth
+G sixteenth
+G sixteenth
+G eighth
+
+D eighth
+E eighth
+G eighth
+G eighth
+G eighth
+G sixteenth
+G sixteenth
+G sixteenth
+G sixteenth
+G eighth
+
+D eighth
+E eighth
+G eighth
+G eighth
+G eighth
+G sixteenth
+G sixteenth
+G sixteenth
+G sixteenth
+G eighth
+
+G eighth
+G eighth
+F_Sharp quarter
